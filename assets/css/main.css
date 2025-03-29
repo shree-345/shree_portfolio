@@ -112,10 +112,10 @@ input, select, textarea {
 			-webkit-transition: none !important;
 			-ms-transition: none !important;
 			transition: none !important;
-			background-color: #add8e6 !important;
+			background-color: #466974 !important;
 		}
 		body {
-			background-color: #add8e6 !important; /* Force light blue */
+			background-color: #466974 !important; /* Force light blue */
 		}
 		body.is-preload {
 			background-color: #add8e6 !important; /* Ensure it stays the same */
@@ -3769,7 +3769,8 @@ input, select, textarea {
 /* Main */
 
 	#main {
-		background-color: #e0e9f3;
+		/*background-color: #e0e9f3;*/
+		background-color: #e4ebe1;
 		position: relative;
 		margin: 0 auto;
 		width: calc(100% - 4rem);
@@ -3966,7 +3967,8 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #e0e9f3;
+		/*background-color: #e0e9f3;*/
+		background-color: #e4ebe1;
 		color: #909498;
 		cursor: default;
 		position: relative;
